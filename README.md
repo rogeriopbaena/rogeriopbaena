@@ -19,6 +19,8 @@
 
 Sou estudante de Engenharia de Software estou indo para o meu 4 semestre e entusiasmado com desenvolvimento de Software, programação e análise de dados, ao de também estou participando do programa One Oracle Next Education em pareceria com alura, aonde escolhi pela formação de Back-end, estou em busca de oportunidades na área de Engenharia de Software para aplicar meus conhecimentos e habilidades em projetos inovadores, contribuindo para o crescimento e sucesso das equipes e organizações..
 
-### Animação da Cobrinha
+### 
 
-![Snake animation](https://raw.githubusercontent.com/rogeriopbaena/rogeriopbaena/output/dist/snake.svg?palette=github-dark)
+<br clear="both">
+
+<img src="https://github.com/rogeriopbaena/rogeriopbaena/blob/main/.github/workflows/main.yml" />
