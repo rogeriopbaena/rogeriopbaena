@@ -14,7 +14,7 @@
 <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
-Sou estudante de Engenharia de Software e entusiasmado com desenvolvimento de sistema, programação e análise de dados,  ao de também estou participando do programa One Oracle Next Education em pareceria com alura, aonde escolhi pela formação de Back-end.
+Sou estudante de Engenharia de Software e entusiasmado com desenvolvimento de software, programação e análise de dados,  ao de também estou participando do programa One Oracle Next Education em pareceria com alura, aonde escolhi pela formação de Back-end.
 
 
 
