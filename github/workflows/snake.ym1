@@ -1,1 +1,32 @@
+name: Geração da Animação da Cobrinha
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa uma vez por dia à meia-noite
+  push:
+    branches:
+      - main  # Executa em cada push para o branch principal
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: rogeriopbaena svg_out_path: dist/github-snake.svg
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Generate snake animation'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
