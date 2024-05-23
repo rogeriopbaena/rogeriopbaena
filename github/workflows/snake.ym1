@@ -1,4 +1,4 @@
-name: Geração da Animação da Cobrinha
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -12,21 +12,31 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@master
+      - name: Setup Python environment
+        uses: actions/setup-python@v2
         with:
-          github_user_name: Rogeriopbaena svg_out_path: dist/github-snake.svg
+          python-version: '3.x'
 
-      - name: Commit & Push
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Generate Snake Animation
+        run: |
+          git clone https://github.com/Platane/snk.git
+          cd snk
+          python3 main.py --user Rogeriopbaena --output ../github-snake.svg
+
+      - name: Commit and push if there are changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A
-          git commit -m 'Generate snake animation'
+          git add github-snake.svg
+          git commit -m 'Generate snake animation' || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
