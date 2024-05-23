@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-baena-14637a65/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
-[![Whatsap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
+
 
 ![RogérioGitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriopbaena&show_icons=true&theme=dracula)
 
@@ -17,10 +17,8 @@
 <img align="center" alt="netbeans" src="https://img.shields.io/badge/NetBeans-blue" />
 </div><br/>
 
-Sou estudante de Engenharia de Software e entusiasmado com desenvolvimento de Software, programação e análise de dados, ao de também estou participando do programa One Oracle Next Education em pareceria com alura, aonde escolhi pela formação de Back-end, estou em busca de oportunidades na área de Engenharia de Software para aplicar meus conhecimentos e habilidades em projetos inovadores, contribuindo para o crescimento e sucesso das equipes e organizações..
+Sou estudante de Engenharia de Software estou indo para o meu 4 semestre e entusiasmado com desenvolvimento de Software, programação e análise de dados, ao de também estou participando do programa One Oracle Next Education em pareceria com alura, aonde escolhi pela formação de Back-end, estou em busca de oportunidades na área de Engenharia de Software para aplicar meus conhecimentos e habilidades em projetos inovadores, contribuindo para o crescimento e sucesso das equipes e organizações..
 
 ### Animação da Cobrinha
 
-![Snake animation](https://github.com/Rogeriopbaena/rogeriopbaena/blob/main/github-snake.svg)
-
-
+![Snake animation](https://raw.githubusercontent.com/rogeriopbaena/rogeriopbaena/output/dist/snake.svg?palette=github-dark)
