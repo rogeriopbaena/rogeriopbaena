@@ -1,4 +1,4 @@
-
+[
 ### Olá! Eu sou o Rogério Pantoja Baena! 👋🏾
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-baena-14637a65/)
@@ -24,3 +24,4 @@ Sou estudante de Engenharia de Software estou indo para o meu 4 semestre e entus
 <br clear="both">
 
 <img src="https://github.com/rogeriopbaena/rogeriopbaena/blob/main/.github/workflows/main.yml" />
+](https://mail.google.com/mail/u/1/#inbox)
