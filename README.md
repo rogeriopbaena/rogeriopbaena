@@ -19,26 +19,8 @@
 
 Sou estudante de Engenharia de Software e entusiasmado com desenvolvimento de Software, programação e análise de dados, ao de também estou participando do programa One Oracle Next Education em pareceria com alura, aonde escolhi pela formação de Back-end, estou em busca de oportunidades na área de Engenharia de Software para aplicar meus conhecimentos e habilidades em projetos inovadores, contribuindo para o crescimento e sucesso das equipes e organizações..
 
-### Animação da cobrinha
+### Animação da Cobrinha
 
-![Snake animation](https://github.com/Rogeriopbaena/rogeriopbaena/blob/output/github-snake.svg)
-
-
+![Snake animation](https://github.com/Rogeriopbaena/rogeriopbaena/blob/main/github-snake.svg)
 
 
-
-
-<!--
-**rogeriopbaena/rogeriopbaena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
