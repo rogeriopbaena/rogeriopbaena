@@ -17,5 +17,5 @@
 <img align="center" alt="netbeans" src="https://img.shields.io/badge/NetBeans-blue" />
 </div><br/>
 
-Sou estudante de Engenharia de Software estou indo para o meu 4 semestre e entusiasmado com desenvolvimento de Software, programação e análise de dados, ao de também estou participando do programa One Oracle Next Education em pareceria com alura, aonde escolhi pela formação de Back-end, estou em busca de oportunidades na área de Engenharia de Software para aplicar meus conhecimentos e habilidades em projetos inovadores, contribuindo para o crescimento e sucesso das equipes e organizações..
+Sou estudante de Engenharia de Software estou no 4 semestre e entusiasmado com desenvolvimento de Software, programação e análise de dados, ao de também estou participando do programa One Oracle Next Education em pareceria com alura, aonde escolhi pela formação de Back-end, estou em busca de oportunidades na área de Engenharia de Software para aplicar meus conhecimentos e habilidades em projetos inovadores, contribuindo para o crescimento e sucesso das equipes e organizações..
 
